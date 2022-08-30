@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "585263412453",
+    "project_id": "glucoscanwatch-e424e",
+    "storage_bucket": "glucoscanwatch-e424e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585263412453:android:5247d5546d31e3c2f8900c",
+        "android_client_info": {
+          "package_name": "br.com.glucoscan.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585263412453-oahnmbdq15gs8jvjogav69esrvtucirm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.glucoscan.login",
+            "certificate_hash": "86838177c4df9c6fb7bdf930b988e013d3ad5d5c"
+          }
+        },
+        {
+          "client_id": "585263412453-q95kbkst1ohlueimrm6l8o4im8hhtmro.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaiJ98vjSUPJBADZP0WKpBH-9CVxoSWiE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585263412453-q95kbkst1ohlueimrm6l8o4im8hhtmro.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585263412453:android:5f12b50a91848f4bf8900c",
+        "android_client_info": {
+          "package_name": "br.com.glucoscan.loginapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585263412453-q95kbkst1ohlueimrm6l8o4im8hhtmro.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaiJ98vjSUPJBADZP0WKpBH-9CVxoSWiE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585263412453-q95kbkst1ohlueimrm6l8o4im8hhtmro.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
